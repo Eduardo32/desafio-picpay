@@ -1,0 +1,13 @@
+.user {
+    background: linear-gradient(186.5deg, #3C3E64 0.83%, #1D1E2A 100%);
+    box-shadow: 0px 1px 0px #FFFFFF, 0px -1px 0px #FFFFFF;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.user img {
+    width: 80px;
+    border-radius: 100px;
+    border: 2px solid #FFFFFF
+}
